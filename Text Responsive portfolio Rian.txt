@@ -1,15 +1,15 @@
 ========== HEADER ==========
 .nav__logo-circle
-R
+Z
 
 .nav__logo-name
-Rian Lot.
+Zenith X.
 
 .nav__title
 Menu
 
 .nav__name
-Rian
+Zenith
 
 .nav__link
 Home - About Me - Projects - Contact Me
@@ -17,7 +17,7 @@ Home - About Me - Projects - Contact Me
 
 ========== HOME ==========
 .home__name
-Rian Lot
+Zenith X
 
 .home__social-link
 https://www.instagram.com/
@@ -25,10 +25,7 @@ https://www.linkedin.com/
 https://github.com/
 
 .home__description
-<b>Frontend Developer</b>, with knowledge in web 
-development and design, I offer the best 
-projects resulting in quality work.
-
+<b>Frontend Developer</b> and <b>Cybersecurity Learner</b>, creating modern, user-friendly websites with a focus on clean design and secure performance. I turn ideas into fast, responsive, and reliable web experiences.
 .home__scroll-text
 Scroll Down
 
@@ -38,15 +35,10 @@ Scroll Down
 About Me.
 
 .about__description
-Passionate about creating <b>Web Pages</b> with 
-<b>UI/UX User Interface</b>, I have years of 
-experience and many clients are happy with 
-the projects carried out.
+Passionate about <b>Cybersecurity</b>, I focus on finding and fixing vulnerabilities to make systems safer. With hands-on experience in ethical hacking and network security, I aim to protect digital assets from real-world threats.
 
 .about__item
-<b>My Skills Are:</b> HTML, CSS, JavaScript, 
-React, Git & GitHub, Bootstrap, Flutter & 
-Figma.
+<b>My Skills Are:</b> Ethical Hacking, Vulnerability Assessment, Network Security, Linux, Nmap, Burp Suite, Wireshark, Metasploit, OWASP Top 10, and basic knowledge of Python scripting.
 
 .button
 Contact Me
@@ -60,10 +52,9 @@ https://www.linkedin.com/
 Services.
 
 .services__title .services__description
-Web Design
-Beautiful and elegant designs with 
-interfaces that are intuitive, efficient 
-and pleasant  to use for the user.
+I’m deeply passionate about cybersecurity
+from learning ethical hacking to uncovering vulnerabilities, 
+I enjoy making the digital world a safer place.
 
 Development
 Custom web development tailored to your 
@@ -85,11 +76,11 @@ Website
 App
 
 .projects__title 
-Restaurant Website
-Yoga App
-Fast Food App
-Coffee Delivery Website
-Barbershop Website
+Hianime Api
+zenime
+MangoDump
+Telegram Leech Bot
+Link Scraper
 
 .projects__description
 Project that you carry out in the design 
@@ -173,4 +164,4 @@ Home - About - Projects
 
 .footer__copy
 &#169; All Rights Reserved By 
-<a href="#">Bedimcode.</a>
+<a href="#">Zenith.</a>
